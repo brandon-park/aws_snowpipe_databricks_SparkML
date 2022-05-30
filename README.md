@@ -5,7 +5,7 @@
 # <center> Streaming Data Analysis 
 # <center> With AWS S3, Snowflake, Databricks, and SparkMLlib
 
-<center> <img src="https://github.com/brandon-park/aws_snowpipe_databricks_SparkML/blob/main/architecture.PNG?raw=true" width="50%"/>
+<center> <img src="https://github.com/brandon-park/aws_snowpipe_databricks_SparkML/blob/main/architecture.PNG?raw=true" width="100%"/>
 
 ## TOC:
 
